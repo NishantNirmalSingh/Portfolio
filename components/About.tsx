@@ -26,7 +26,7 @@ const About = () => {
               hands-on experience building AI-powered applications using Python, TensorFlow, 
               LangChain, and Streamlit. I specialize in creating deep learning and NLP solutions, 
               with expertise in Retrieval-Augmented Generation (RAG) systems and vector search 
-              technologies. I'm passionate about solving real-world problems through data-driven 
+              technologies. I&apos;m passionate about solving real-world problems through data-driven 
               insights and scalable AI systems while continuously exploring emerging technologies 
               in artificial intelligence and machine learning.
             </p>
